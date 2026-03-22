@@ -1,0 +1,14 @@
+{
+  "AppVersion": "1.3.0.0",
+  "Title": "Interactive Particle Wallpaper",
+  "Thumbnail": null,
+  "Preview": null,
+  "Desc": "A Python-based particle network animation with mouse interaction, inspired by connected particle systems.",
+  "Author": "Your Name",
+  "License": "MIT",
+  "Contact": null,
+  "Type": 0,
+  "FileName": "main.exe",
+  "Arguments": null,
+  "IsAbsolutePath": false
+}
